@@ -1,0 +1,12 @@
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/bin/Debug/net6.0/DeliveryRepo.deps.json
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/bin/Debug/net6.0/DeliveryRepo.dll
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/bin/Debug/net6.0/DeliveryRepo.pdb
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.csproj.AssemblyReference.cache
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.AssemblyInfoInputs.cache
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.AssemblyInfo.cs
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.csproj.CoreCompileInputs.cache
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.dll
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/refint/DeliveryRepo.dll
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/DeliveryRepo.pdb
+/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/Debug/net6.0/ref/DeliveryRepo.dll

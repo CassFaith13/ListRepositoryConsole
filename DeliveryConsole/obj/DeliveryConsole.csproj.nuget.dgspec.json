@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryConsole/DeliveryConsole.csproj": {}
+  },
+  "projects": {
+    "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryConsole/DeliveryConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryConsole/DeliveryConsole.csproj",
+        "projectName": "DeliveryConsole",
+        "projectPath": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryConsole/DeliveryConsole.csproj",
+        "packagesPath": "/Users/home/.nuget/packages/",
+        "outputPath": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryConsole/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/DeliveryRepo.csproj": {
+                "projectPath": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/DeliveryRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/DeliveryRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/DeliveryRepo.csproj",
+        "projectName": "DeliveryRepo",
+        "projectPath": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/DeliveryRepo.csproj",
+        "packagesPath": "/Users/home/.nuget/packages/",
+        "outputPath": "/Users/home/Documents/ElevenFiftyAcademy149/ElevenFiftyProjects/codingFoundations/dotnetProjects/CsharpFundamentals/DeliveryRepository/DeliveryRepo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/home/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeliveryConsole/1.0.0": {
+        "dependencies": {
+          "DeliveryRepo": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryConsole.dll": {}
+        }
+      },
+      "DeliveryRepo/1.0.0": {
+        "runtime": {
+          "DeliveryRepo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
